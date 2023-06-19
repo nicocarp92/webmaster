@@ -1,0 +1,27 @@
+/*font-family: 'Dancing Script', cursive;
+font-family: 'Oswald', sans-serif;*/
+
+
+.caja {
+    margin: 100px;
+    background: rgb(131,58,180);
+background: linear-gradient(338deg, rgba(131,58,180,1) 0%, rgba(172,84,139,1) 51%, rgba(252,176,69,1) 100%);
+width: 500px;
+height: 500px;
+box-shadow: 10px 10px 5px black ;
+/* eje x - eje  y - blur desenfoque- color*/
+border-radius: 20px;
+border-radius: 50px 0px;
+
+}
+.texto{
+    background-color: aqua;
+    column-count: 4;
+    column-gap: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+
+}
