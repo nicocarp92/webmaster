@@ -1,0 +1,30 @@
+.contenedor{
+    background-color: black;
+     display: flex;
+     justify-content: center;
+    flex-direction: row-reverse;
+    
+
+
+}
+.item1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+
+    font-size: 30px;
+}
+.item2{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    
+    font-size: 30px;
+}
+.item3{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    
+}
